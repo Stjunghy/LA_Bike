@@ -2,8 +2,8 @@
 
 http://bikefun.herokuapp.com
 
-App Deployed on Heroku.
+We created a web app that analyzes LA Metro's Bike data (passholder types, bike trips and routes)
 
--Included Leaflet and Web Scraping
+-Utilized Leaflet Javascript to create a map of Los Angeles neighborhoods/boundaries, along with Web Scraping
 -Visualizations include a Python Flask powered RESTful API, HTML/CSS, JavaScript, and MongoDB database.
--User-driven interaction (e.g. menus, dropdowns, textboxes, etc.)
+-Included user-driven interaction (e.g. menus, dropdowns, textboxes, etc.)
